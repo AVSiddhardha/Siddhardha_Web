@@ -1,0 +1,193 @@
+body {
+    background-color: lightgray;
+    hr {
+      border: 3px solid black;
+    }
+  }
+  
+  .vline {
+    width: 3px;
+    height: 80%;
+    background-color: black;
+    float: inline-start;
+    margin: 1%;
+  }
+  
+  nav {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(227, 190, 190);
+    img {
+      width: 20px;
+      margin: 10px;
+    }
+  }
+  
+  .aboutme {
+    h1{
+  font-size: 60px;
+  text-align: center;
+}
+    height: 250px;
+    padding: 50px;
+    background: linear-gradient(to bottom,  rgb(255, 255, 255), #a3c6d4);
+
+
+  }
+  .aboutmecontent {
+    h3{
+        font-size: 30px;
+        text-align: center;
+      }
+    width: 950px;
+    float: inline-start;
+  }
+  .myimage {
+    float: inline-end;
+    margin-right: 150px;
+    img {
+      width: 250px;
+    }
+  }
+  
+  .content {
+    height: 300px;
+  }
+  .experience {
+    h2{
+        text-align: center;
+    }
+    float: inline-start;
+    width: 750px;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(219, 189, 177));
+    img {
+      width: 50px;
+      float: inline-start;
+      margin-top: 10px;
+      margin-left: 25px;
+    }
+    span {
+        width: 600px;
+        float: inline-start;
+        margin-top: 20px;
+        margin-left: 20px;
+      }
+  }
+  .skills {
+    h2{
+        text-align: center;
+    }
+    float: inline-start;
+    width: 700px;
+    background: rgb(214, 215, 196);
+    img {
+      width: 50px;
+      margin-top: 20px;
+      float: inline-start;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    span {
+      margin-top: 20px;
+      float: inline-start;
+      width: 600px;
+    }
+  }
+  
+  .education {
+    h2{
+        text-align: center;
+    }
+    height: 260px;
+    padding: 10px;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(181, 207, 192));
+    img {
+      width: 50px;
+      float: inline-start;
+      margin: 20px 50px 0px 50px;
+    }
+    a {
+      width: 1200px;
+      margin: 20px;
+      float: inline-start;
+    }
+  }
+  
+  .content2 {
+    height: 320px;
+    width: 1500px;
+  }
+  .blogs {
+    h2{
+        text-align: center;
+    }
+    float: inline-start;
+  }
+  
+  .blog {
+    height: 130px;
+    background: rgb(198, 193, 217);
+    img {
+      width: 100px;
+      float: inline-start;
+    }
+    span {
+      width: 500px;
+      float: inline-start;
+    }
+  }
+  .certification {
+    h3{
+        text-align: center;
+    }
+    float: inline-start;
+    width: 865px;
+  }
+  .cer {
+    height: 268px;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(208, 188, 209));
+  }
+  .certificate {
+    float: inline-start;
+    width: 200px;
+    margin-left: 30px;
+    padding: 10px;
+    a {
+      float: left;
+    }
+    img {
+      width: 100px;
+      margin-left: 30px;
+    }
+  }
+  
+  .projects {
+    height: 250px;
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(196, 183, 164));
+  }
+  .project {
+    width: 325px;
+    float: inline-start;
+    padding: 10px;
+    margin-top: 10px;
+    img {
+      width: 100px;
+      margin-left: 100px;
+    }
+    span {
+      float: left;
+    }
+  }
+  
+  footer {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(227, 190, 190);
+    img {
+      width: 20px;
+      margin: 10px;
+    }
+  }
+  
